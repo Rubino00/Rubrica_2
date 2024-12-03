@@ -10,5 +10,7 @@ Claudia.stampa_contatto ()
 Francesco.ceck_len_num ()
 Claudia.ceck_len_num ()
 
-Antonella = cf.contatto ("Antonella" , "Mincuzzi" , "3337057366" , "09987676565")
+Antonella = cf.contatto ("Antonella" , "Mincuzzi" , "3337057366" , "0998767656")
 Antonella.stampa_contatto ()
+
+Antonella.ceck_len_num ()
