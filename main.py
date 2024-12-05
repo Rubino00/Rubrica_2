@@ -17,3 +17,5 @@ Antonella.ceck_len_num ()
 
 Roberta = cf.contatto ("Roberta" , "Mincuzzi" , "3331231234" , "09998787676")
 Roberta.stampa_contatto ()
+
+print ("hello world")
